@@ -22,9 +22,9 @@ $ python app.py
 - pip install --user virtualenv
 - virtualenv env
 - .\env\Scripts\activate
-
-
-
+## Future plans
+In future this app will be deployed to a public DNS server to make it remotely accessible and additional features (such as providing growing methods) will be added. 
+## Demo
 https://user-images.githubusercontent.com/45334085/123444768-eb7a0d80-d5df-11eb-9618-251b732242b6.mp4
 
 
